@@ -40,6 +40,9 @@ Foi utilizada uma abordagem SPA (Single-page application), no qual o back-end se
     * Usado para a estilização das páginas
     
 * Nodemon:
+    * Usado para restatar automaticamente o `servidor`
+
+* Insomnia:
     * Usado para testar rotas do `backend`
 
 * Express
