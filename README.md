@@ -4,6 +4,8 @@ Nesta aplicação ONGs podem se cadastrar, cadastrar novos casos através da pla
 Este sistema conta com back-end,  front-end e mobile.
 Ele foi desenvolvido na Semana Omnistack 11.0 da rocketseat.
 
+
+
 ## Ambientes de desenvolvimento:
 
 ```bash
